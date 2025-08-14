@@ -31,3 +31,11 @@
 ---
 
 ## 🗂 Repository Structure
+> Each folder contains: **problem statement**, **Java solution**, **approach explanation**, and **complexity analysis**.
+
+---
+
+## ⚡ How to Use
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/RAKSHITHAN079/LeetCode-Playbook.git
