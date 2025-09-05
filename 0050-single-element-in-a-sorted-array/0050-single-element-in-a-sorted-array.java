@@ -26,6 +26,6 @@ class Solution {
             return nums[i];
     }
 
-    return -1; // not found (shouldn’t happen if input is valid)
+    return -1; // not found 
 }
     }
