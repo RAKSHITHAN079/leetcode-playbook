@@ -1,17 +1,14 @@
 class Solution {
     public int arrangeCoins(int n) {
-        long left = 0, right = n;
-        while (left <= right) {
-            long mid = left + (right - left) / 2;
-            long sum = mid * (mid + 1) / 2;
-            if (sum == n) {
-                return (int) mid;
-            } else if (sum < n) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
+        int row = 0;
+        int i = 1;
+
+        while (n >= i) {
+            n -= i;   // use coins for row i
+            row++;    // completed one row
+            i++;      // next row needs one more coin
         }
-        return (int) right;
+
+        return row;   // number of full rows
     }
 }
