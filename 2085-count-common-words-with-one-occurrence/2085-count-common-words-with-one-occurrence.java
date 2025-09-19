@@ -12,7 +12,7 @@ class Solution {
         int count=0;
 
         for(String str:map1.keySet()){
-            if(map1.get(str)==map2.get(str))
+            if(map1.get(str)==map2.get(str)&&map1.get(str)==1)
             count++;
         }
         return count;
