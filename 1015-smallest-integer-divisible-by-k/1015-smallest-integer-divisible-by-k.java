@@ -1,7 +1,7 @@
 class Solution {
     public int smallestRepunitDivByK(int K) {
         if (K == 0) return -1;         
-        if (K % 2 == 0 || K % 5 == 0) return -1; // cannot be divisible
+        if (K % 2 == 0 || K % 5 == 0) return -1;
         int remainder = 0;
         for (int len = 1; len <= K; len++) {
             remainder = (remainder * 10 + 1) % K;
