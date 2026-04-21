@@ -50,4 +50,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/RAKSHITHAN079/leetcode-playbook/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RAKSHITHAN079/leetcode-playbook/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RAKSHITHAN079/leetcode-playbook/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
