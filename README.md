@@ -39,3 +39,15 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/RAKSHITHAN079/LeetCode-Playbook.git
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/RAKSHITHAN079/leetcode-playbook/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/RAKSHITHAN079/leetcode-playbook/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+<!---LeetCode Topics End-->
